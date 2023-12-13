@@ -8,6 +8,6 @@ It's unlikely we will leave the actual websites up past December 30, 2023, but i
 
 You'll see the configuration used for IPFS in code.sh with a lot of the tips I learned the hard way. If you have any questions about the material, please leave an issue and I'll help as best I can. 
 
-I only hosted a static webpage for multiple reasons. One of them is I didn't know what that relationship to IPFS protocol would look like and didn't leave myself enough time to explore it. There's some reference in docs.ipfs.io that may be able to help. 
+I only hosted a static webpage for multiple reasons. One of them is I didn't leave myself enough time to explore it. There's some reference in docs.ipfs.io that may be able to help. 
 
 Good luck!
